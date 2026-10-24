@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="record_0">Record: 0</string>
+    <string name="play_again">Play Again</string>
+</resources>
